@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo apt install mate-terminal
+sudo apt install gnome-terminal
 
